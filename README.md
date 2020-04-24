@@ -11,5 +11,5 @@ How to use:
 2. Launch composer install
 3. Connect with database
 4. Start application
-5. In browser, URL write: http://127.0.0.1:8000/api/product?city=kaunas
+5. In browser URL write: http://127.0.0.1:8000/api/product?city=kaunas
 6. "kaunas" can be changed with any of Lithuania cities
